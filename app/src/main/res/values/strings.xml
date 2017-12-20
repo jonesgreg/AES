@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AES_encryption</string>
+    <string name="action_settings">Settings</string>
+</resources>
